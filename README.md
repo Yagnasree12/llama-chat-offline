@@ -7,11 +7,9 @@ An ultra-modern, **fully offline chatbot** UI using [Ollama](https://ollama.com)
 
 ✅ Chat with powerful open-source LLMs  
 ✅ 100% Private – Works fully offline (No internet needed)  
-✅ Upload documents (TXT) and ask questions  
-✅ Upload images for Visual Q&A 🖼️  
-✅ Voice input support 🎤  
-✅ Customizable UI with avatars, markdown, and themes  
-✅ Download chat as `.txt` or `.json`  
+✅ Upload documents and ask questions  
+✅ Upload images for Visual Q&A 🖼️   
+✅ Customizable UI with avatars, markdown, and themes   
 ✅ Emoji & markdown-friendly formatting  
 ✅ Responsive and user-friendly design
 
@@ -24,7 +22,7 @@ Ollama
 
 LLaMA
 
-SpeechRecognition
+pypdf
 
 Pillow
 
