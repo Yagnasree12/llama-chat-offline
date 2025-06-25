@@ -1,8 +1,6 @@
 # llama-chat-offline--LLaMATE
 💬 Offline Chatbot UI using Streamlit + Ollama + LLaMA + Image/Voice/Doc Q&amp;A
 
-# 🦙 LLaMA Chat UI (Offline)
-
 An ultra-modern, **fully offline chatbot** UI using [Ollama](https://ollama.com), [LLaMA 3](https://ollama.com/library/llama3), and [Streamlit](https://streamlit.io).
 
 ## 🚀 Features
@@ -16,6 +14,20 @@ An ultra-modern, **fully offline chatbot** UI using [Ollama](https://ollama.com)
 ✅ Download chat as `.txt` or `.json`  
 ✅ Emoji & markdown-friendly formatting  
 ✅ Responsive and user-friendly design
+
+🛠️ Built With
+Python
+
+Streamlit
+
+Ollama
+
+LLaMA
+
+SpeechRecognition
+
+Pillow
+
 
 ---
 
